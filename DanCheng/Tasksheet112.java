@@ -1,6 +1,6 @@
 package DanCheng;
 public class Tasksheet112 {
-//Modified to 
+//Modified to Compound Assignment
     public static void main(String[] args) {
        
         int result = 1 + 2; // result is now 3
