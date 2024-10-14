@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet112",
+            "request": "launch",
+            "mainClass": "DanCheng.Tasksheet112",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet113",
+            "request": "launch",
+            "mainClass": "DanCheng.Tasksheet113",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet114",
+            "request": "launch",
+            "mainClass": "DanCheng.Tasksheet114",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet115",
+            "request": "launch",
+            "mainClass": "Tasksheet115",
+            "projectName": "Tasksheet_27fdeb38"
+        }
+    ]
+}
