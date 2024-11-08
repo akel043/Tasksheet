@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tasksheet130",
+            "request": "launch",
+            "mainClass": "Tasksheet130",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet129",
+            "request": "launch",
+            "mainClass": "Tasksheet129",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Gorilla",
+            "request": "launch",
+            "mainClass": "Gorilla",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
             "name": "Tasksheet128",
             "request": "launch",
             "mainClass": "Tasksheet128",
